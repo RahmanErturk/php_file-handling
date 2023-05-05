@@ -1,0 +1,16 @@
+{
+    "first_name": "Rahman",
+    "last_name": "Ertuerk",
+    "age": 26,
+    "siblings": [
+        {
+            "name": "Ahmet",
+            "age": "16"
+        },
+        {
+            "name": "Mahmut",
+            "age": "21"
+        }
+    ],
+    "country": "Germany"
+}
